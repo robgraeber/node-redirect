@@ -1,5 +1,5 @@
 # Node-Redirect
-Simple node server to 301 redirect all requests to a url
+Simple node server to 307 redirect all requests to a url
 
 ### Usage:
 
